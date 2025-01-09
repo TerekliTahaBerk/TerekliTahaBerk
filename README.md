@@ -68,5 +68,8 @@ Introduction to ChatGPT
 - Email: terekli@tahaberk.com
 - Phone: +90 537 795 44 34
 
+
+## Support My Work
+If this project inspired you, provided ideas for your own portfolio, or helped in any way, please consider [buying me a coffee](http://buymeacoffee.com/tahaberkterekli) ❤️. Your support motivates me to keep creating and sharing valuable content!
 ---
 🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat!
