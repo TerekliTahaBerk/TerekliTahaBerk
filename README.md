@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Taha Berk!
+# 👋 Hi, I'm Taha Berk! 
 
 An engineer specializing in Data Science and Artificial Intelligence, developing automation systems.  
 🌍 Based in Istanbul
@@ -9,30 +9,15 @@ As a data-driven engineer, I'm passionate about using my skills to bring value t
 
 ## 💼 Professional Experience
 
-**RPA Developer & Analyst** @[Papara](https://www.papara.com) _(Dec 2024 - Present)_
-- Developing automation solutions using UiPath and Automation Anywhere
-- Analyzing business processes to identify automation opportunities
-- Bot development and process optimization
+- **RPA Developer & Analyst** @[Papara](https://www.papara.com) _(Dec 2024 - Present)_
 
-**Supply Chain Intern** @[LC Waikiki](https://www.lcwaikiki.com) _(Aug 2024 - Sep 2024)_
-- Optimized supply chain processes using advanced data analytics
-- Managed supplier relationships and implemented cost-reducing logistics improvements
-- Enhanced transparency in demand planning and inventory management
+- **Supply Chain Intern** @[LC Waikiki](https://www.lcwaikiki.com) _(Aug 2024 - Sep 2024)_
 
-**RPA Developer** @[Latro](https://www.latro.com.tr) _(Jul 2023 - Aug 2023)_
-- Led SAP automation integration
-- Developed robotic system automations using Java and Python
-- Designed automation processes with Robusta
+- **RPA Developer** @[Latro](https://www.latro.com.tr) _(Jul 2023 - Aug 2023)_
 
-**RPA Developer Intern** @[QNB Finansbank](https://www.qnbfinansbank.com) _(Apr 2023 - Jun 2023)_
-- Pioneered projects in artificial intelligence and automation
-- Automated SAP program for account initiation
-- Enhanced skills in Python and SAP automations
+- **RPA Developer Intern** @[QNB Finansbank](https://www.qnbfinansbank.com) _(Apr 2023 - Jun 2023)_
 
-**Short Term Intern** @[DenizBank](https://www.denizbank.com) _(Jan 2023 - Mar 2023)_
-- Gained valuable banking sector experience
-- Contributed across various departments
-- Developed insights into data science applications in banking
+- **Short Term Intern** @[DenizBank](https://www.denizbank.com) _(Jan 2023 - Mar 2023)_
 
 ## 🛠️ Technical Skills
 
@@ -50,20 +35,20 @@ As a data-driven engineer, I'm passionate about using my skills to bring value t
 
 ## 🎯 Certifications
 
-**IBM Certificates:**
+- **IBM Certificates:**
 Python for Data Science, AI & Development,
 Tools for Data Science,
 Python Project for Data Science,
 Data Analysis with Python,
 Databases and SQL for Data Science with Python
 
-**Stanford University:**
+- **Stanford University:**
 Code in Place, Computer Science,
 Certificate of Completion Code in Place,
 Supervised Machine Learning,
 Introduction to Statistics
 
-**DataCamp:**
+- **DataCamp:**
 Introduction to AWS,
 Introduction to Python,
 Intermediate Python,
@@ -72,12 +57,9 @@ Introduction to ChatGPT
 ## 🌱 Volunteering
 
 - **WWF Foundation** - Volunteer Coordinator _(2023 - Present)_
-  - Coordination in biodiversity, climate change, and sustainability projects
-  - Raising awareness about environmental challenges
 
 - **Community Volunteers Foundation** - Coordinator _(2023 - Present)_
-  - Development and management of impact-focused projects
-  - Fostering volunteer culture at YTU Community Volunteers
+
 
 ## 📫 Contact
 
