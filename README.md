@@ -65,7 +65,7 @@ Introduction to ChatGPT
 
 - LinkedIn: [Taha Berk Terekli](https://www.linkedin.com/in/tahaberkterekli)
 - GitHub: [@TahaBerk58](https://github.com/TahaBerk58)
-- Email: terekli@tahaberk.com
+- Email: contact@tahaberk.com
 - Phone: +90 537 795 44 34
 
 ## ☕️ Support My Work
