@@ -56,9 +56,9 @@ Introduction to ChatGPT
 
 ## 🌱 Volunteering
 
-- **WWF Foundation** - Volunteer Coordinator _(2023 - Present)_
+- **WWF Foundation** - Volunteer Coordinator _(2023 - 2025)_
 
-- **Community Volunteers Foundation** - Coordinator _(2023 - Present)_
+- **Community Volunteers Foundation** - Coordinator _(2023 - 2025)_
 
 
 ## 📫 Contact
