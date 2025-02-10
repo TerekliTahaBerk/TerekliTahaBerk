@@ -49,6 +49,7 @@ Supervised Machine Learning,
 Introduction to Statistics
 
 - **DataCamp:**
+Understanding Prompt Engineering
 Introduction to AWS,
 Introduction to Python,
 Intermediate Python,
