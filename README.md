@@ -32,10 +32,10 @@ As a data-driven engineer, I'm passionate about using my skills to bring value t
 
 ## 📚 Education
 
-- 🎓 **Yildiz Technical University** _(2022 - 2026)_ 
+- 🎓 **Yildiz Technical University** _(2022 - 2026)_   
 Bachelor's Degree in Mathematics Focusing on mathematical foundations for data science and AI applications
 
-- 🎯 **Stanford University** _(2023)_ 
+- 🎯 **Stanford University** _(2023)_   
 Code in Place Program - Python programming and computer science fundamentals
 
 - 🏫 **Vefa High School** _(2017 - 2022)_
